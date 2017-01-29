@@ -1,0 +1,329 @@
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2016      REGION : PATNA    DATE : 21-05-2016   PG : 3
+     
+SCHOOL : 08080 NOTRE DAME ACADEMY PO PATLIPUTRA PATNA BIHAR    
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD    INTL-SUB RESULT
+
+7634299 AAKRITI CHOUDHARY                301 072   B2   041 061   B2   042 076   B1   043 083   B1   065 087   B1   048 086   A2      A2 A2 A1 PASS
+7634300 ABHAVYA VERMA                    301 085   A2   041 071   B1   042 090   A2   043 092   A2   065 090   A2                     A1 A2 A1 PASS
+7634301 ADITI JALAJ                      301 092   A1   041 080   A2   042 084   A2   043 077   B1   065 088   B1   048 095   A1      A2 A2 A2 PASS
+7634302 AKANKSHA SRIVASTAVA              301 088   A2   041 082   A2   042 083   A2   043 090   A2   065 093   A2   048 094   A1      A1 A2 A1 PASS
+7634303 AKANSHA SINGH                    301 084   A2   041 074   B1   042 075   B2   043 081   B1   065 087   B1                     A1 A1 A1 PASS
+7634304 AKRITY KUMARI                    301 085   A2   041 095   A1   042 094   A1   043 094   A1   065 084   B2   048 088   A2      A1 A2 A2 PASS
+7634305 AKSHITA SINGH                    301 096   A1   041 095   A1   042 095   A1   043 095   A1   065 088   B1                     A1 A2 A1 PASS
+7634306 ANJALI                           301 082   A2   041 044   C2   042 073   B2   043 078   B1   065 078   C1   048 092   A1      A1 A2 A2 PASS
+7634307 ANOUSHKA HARSH                   301 090   A1   041 074   B1   042 084   A2   043 074   B2   065 085   B2   048 093   A1      A2 A2 A2 PASS
+7634308 ANUSHA JOSE                      301 091   A1   041 071   B1   042 079   B1   043 078   B1   065 085   B2   048 090   A1      A1 A1 A2 PASS
+7634309 ANUSHKA GHOSH                    301 083   A2   041 067   B1   042 076   B1   043 083   B1   065 088   B1   048 091   A1      A2 A2 A1 PASS
+7634310 ANWESHA SUMAN                    301 095   A1   027 095   A1   028 095   A1   041 087   A2   065 094   A1                     A1 A2 A2 PASS
+7634311 ARINA JAINA                      301 092   A1   041 092   A1   042 092   A1   043 088   A2   065 091   A2   048 092   A1      A1 A2 A1 PASS
+7634312 ARSHIA ANAND                     301 080   B1   041 095   A1   042 095   A1   043 095   A1   065 092   A2                     A1 A2 A1 PASS
+7634313 ARUSHI AADYA                     301 083   A2   041 082   A2   042 069   C1   043 072   B2   065 096   A1   048 091   A1      A2 A2 A2 PASS
+7634314 AYUSHI MOHAN                     301 084   A2   041 092   A1   042 086   A2   043 083   B1   065 091   A2   048 094   A1      A1 A2 A2 PASS
+7634315 BHARGAVI ROY                     301 090   A1   041 092   A1   042 095   A1   043 095   A1   065 096   A1   048 093   A1      A1 A2 A1 PASS
+7634316 DEWANGEE AGRAWAL                 301 094   A1   041 097   A1   042 095   A1   043 100   A1   065 098   A1                     A1 A2 A1 PASS
+7634317 DIYA                             301 090   A1   041 084   A2   042 085   A2   043 072   B2   065 092   A2   048 092   A1      A1 A2 A1 PASS
+7634318 FARHEEN FATIMA                   301 076   B1   041 053   C1   042 093   A1   043 085   A2   065 095   A1   048 087   A2      A1 A1 A1 PASS
+7634319 HARSHITA BAJAJ                   301 094   A1   041 095   A1   042 095   A1   043 096   A1   065 096   A1                     A1 A2 A1 PASS
+7634320 INSHA JAVAID ISMAILI             301 080   B1   041 049   C2   042 065   C1   043 057   D1   065 082   B2   048 094   A1      A2 A2 A2 PASS
+7634321 JIGEESHA CHAUHAN                 301 080   B1   041 049   C2   042 074   B2   043 076   B2   065 090   A2   048 087   A2      A1 A2 A1 PASS
+7634322 JYOTI KUMARI                     301 064   C1   041 066   B1   042 063   C2   043 063   C2   065 068   D1   048 069   C1      A2 A1 A2 PASS
+7634323 JYOTSNA RAI                      301 085   A2   041 035   D1   042 079   B1   043 074   B2   065 069   D1   048 076   B1      A2 A2 A2 PASS
+7634324 KHUSHI AMBASTHA                  301 083   A2   041 066   B1   042 084   A2   043 088   A2   065 095   A1   048 094   A1      A1 A2 A1 PASS
+7634325 KIMMI KUMARI                     301 094   A1   041 095   A1   042 081   B1   043 095   A1   065 096   A1                     A1 A2 A1 PASS
+7634326 KRITIKA KIRAN                    301 090   A1   041 061   B2   042 082   B1   043 077   B1   065 089   B1   048 079   B1      A2 A2 A2 PASS
+7634327 LAVANYA KRISHNATRA               301 076   B1   041 065   B2   042 070   B2   043 062   C2   065 090   A2   048 082   A2      A1 A2 A1 PASS
+7634328 MOHINI SINGH                     301 094   A1   041 082   A2   042 075   B2   043 084   A2   065 083   B2   048 089   A1      A1 A2 A2 PASS
+7634329 NAMRATA SARRAF                   301 084   A2   041 095   A1   042 095   A1   043 095   A1   065 098   A1                     A1 A2 A1 PASS
+7634330 NANDINI                          301 076   B1   041 049   C2   042 063   C2   043 065   C1   065 075   C2                     A1 A2 A2 PASS
+7634331 NAVYA SINGH                      301 090   A1   041 081   A2   042 060   D1   043 071   B2   065 086   B1   048 085   A2      A2 A2 A2 PASS
+7634332 NEHA                             301 075   B2   041 049   C2   042 061   C2   043 053   D1   065 073   C2                     B2 A2 A2 PASS
+7634333 NIDHI VERMA                      301 088   A2   041 038   D1   042 064   C2   043 060   D1   065 088   B1   048 092   A1      A2 A2 A2 PASS
+7634334 NIKITA                           301 083   A2   041 078   A2   042 068   C1   043 075   B2   065 069   D1   048 075   B2      A2 A2 A2 PASS
+7634335 NITISHA SINHA                    301 090   A1   041 053   C1   042 082   B1   043 073   B2   065 091   A2   048 078   B1      A2 A2 A2 PASS
+7634336 PALAK                            301 082   A2   041 074   B1   042 095   A1   043 094   A1   065 091   A2   048 090   A1      A1 A1 A1 PASS
+7634337 PARUL VERMA                      301 095   A1   041 096   A1   042 095   A1   043 095   A1   065 098   A1                     A1 A1 A1 PASS
+7634338 PRAGATI                          301 092   A1   041 068   B1   042 089   A2   043 083   B1   065 095   A1                     A2 A2 A2 PASS
+7634339 RATNA PRIYA                      301 064   C1   041 052   C1   042 080   B1   043 090   A2   065 091   A2   048 073   B2      A2 A1 A2 PASS
+7634340 REBUSHI RAGYA                    301 071   B2   041 067   B1   042 069   C1   043 073   B2   065 083   B2   048 082   A2      A2 A2 A2 PASS
+7634341 RICHA RANI                       301 088   A2   041 052   C1   042 066   C1   043 063   C2   065 076   C1   030 053   C1      A2 A2 A2 PASS
+7634342 RISHITA GUPTA                    301 075   B2   041 049   C2   042 066   C1   043 071   B2   065 072   C2   048 079   B1      B1 A1 A2 PASS
+7634343 RIYA SINHA                       301 085   A2   041 088   A2   042 076   B1   043 088   A2   065 092   A2   048 073   B2      B1 A2 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2016      REGION : PATNA    DATE : 21-05-2016   PG : 2
+     
+SCHOOL : 08080 NOTRE DAME ACADEMY PO PATLIPUTRA PATNA BIHAR    
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD    INTL-SUB RESULT
+       
+7634344 SHAGUN SINGH                     301 080   B1   041 052   C1   042 067   C1   043 068   C1   065 088   B1                     A2 A2 A2 PASS
+7634345 SHALINI KANT                     301 083   A2   041 039   D1   042 077   B1   043 076   B2   065 089   B1   030 087   A2      A1 A2 A1 PASS
+7634346 SHALINI VERMA                    301 087   A2   041 068   B1   042 081   B1   043 094   A1   065 084   B2   048 083   A2      A1 A2 A1 PASS
+7634347 SHAMBHAVI                        301 084   A2   041 071   B1   042 091   A2   043 084   A2   065 086   B1   048 082   A2      A2 A2 A1 PASS
+7634348 SHIKHA SINGH                     301 084   A2   041 066   B1   042 084   A2   043 091   A2   065 095   A1                     A1 A2 A1 PASS
+7634349 SHIVANGI SHREYA                  301 083   A2   041 090   A1   042 087   A2   043 094   A1   065 097   A1                     A2 A2 A1 PASS
+7634350 SHIVANI                          301 091   A1   041 054   C1   042 076   B1   043 076   B2   065 091   A2   048 094   A1      A1 A1 A1 PASS
+7634351 SHREYA                           301            041            042            043            065            048                        ABST
+7634352 SHRISHTI SHREYA                  301 087   A2   041 049   C2   042 056   D1   043 072   B2   065 090   A2   048 083   A2      A1 A2 A1 PASS
+7634353 SHRUTI KUMARI                    301 083   A2   041 071   B1   042 084   A2   043 079   B1   065 088   B1   048 091   A1      A2 A2 A2 PASS
+7634354 SIMRAN SINGH                     301 083   A2   041 092   A1   042 091   A2   043 091   A2   065 095   A1                     A1 A2 A1 PASS
+7634355 SONALI KUMARI                    301 076   B1   041 058   B2   042 062   C2   043 073   B2   065 085   B2   048 083   A2      A2 A2 A2 PASS
+7634356 SONALI RAJESHWARI                301 075   B2   041 052   C1   042 060   D1   043 062   C2   065 089   B1   048 082   A2      A2 A2 A2 PASS
+7634357 SONALI SHARAN                    301 074   B2   041 061   B2   042 087   A2   043 084   A2   065 090   A2   048 088   A2      A2 A2 A2 PASS
+7634358 SONAM KUMARI                     301 088   A2   041 058   B2   042 063   C2   043 075   B2   065 090   A2                     B2 A2 A2 PASS
+7634359 SONAM RAJ                        301 065   C1   041 033   D2   042 060   D1   043 050   D2   065 080   C1   048 072   B2      B1 A1 A2 PASS
+7634360 SWATI RAJ                        301 073   B2   041 058   B2   042 080   B1   043 068   C1   065 083   B2   048 088   A2      A2 A1 A2 PASS
+7634361 SYEDA AEYSHA HASSAN              301 093   A1   041 079   A2   042 076   B1   043 065   C1   065 086   B1   048 081   B1      A2 A2 A2 PASS
+7634362 TANYA BHARTI                     301 084   A2   041 064   B2   042 093   A1   043 077   B1   065 088   B1   048 091   A1      A2 A2 A2 PASS
+7634363 TANZY                            301 082   A2   041 085   A2   042 095   A1   043 095   A1   065 097   A1   048 097   A1      A1 A2 A1 PASS
+7634364 TRIPTI RASTOGI                   301 081   B1   041 077   A2   042 062   C2   043 081   B1   065 093   A2   048 086   A2      A1 A2 A1 PASS
+7634365 AASTHA                           301 090   A1   042 087   A2   043 093   A2   044 094   A2   048 092   A1                     A2 A1 A2 PASS
+7634366 ABHILASHA                        301 072   B2   042 061   C2   043 073   B2   044 066   C2   048 085   A2                     A2 A2 A2 PASS
+7634367 ADEEBA                           301 094   A1   042 095   A1   043 095   A1   044 095   A1   048 095   A1                     A1 A2 A2 PASS
+7634368 AFIFA KHANAM                     301 081   B1   042 092   A1   043 094   A1   044 095   A1   048 095   A1                     A1 A2 A2 PASS
+7634369 AFSHEEN AHMED                    301 083   A2   042 067   C1   043 082   B1   044 095   A1   048 090   A1                     A2 A2 A2 PASS
+7634370 AISHWARYA MOOKHEY                301 091   A1   042 094   A1   043 095   A1   044 095   A1   048 095   A1                     A1 A2 A1 PASS
+7634371 ANANYA ROUSHAN                   301 082   A2   042 077   B1   043 094   A1   044 095   A1   048 086   A2   065 094   A1      A2 A2 A2 PASS
+7634372 ANJALI HARSHA                    301 069   C1   042 058   D1   043 060   D1   044 063   D1   048 063   C2                     A1 A2 A2 PASS
+7634373 ANKITA SAHAY                     301 096   A1   042 067   C1   043 088   A2   044 095   A1   048 091   A1                     A1 A1 A1 PASS
+7634374 ANUSHKA SRIVASTAVA               301 088   A2   042 065   C1   043 094   A1   044 089   B1   048 078   B1   041 049   C2      A1 A1 A1 PASS
+7634375 APURWA KARMSHEEL                 301 081   B1   042 067   C1   043 071   B2   044 076   C1   048 078   B1                     A2 A2 A2 PASS
+7634376 ARADHYA SINHA                    301 096   A1   042 071   B2   043 083   B1   044 095   A1   048 089   A1                     A1 A2 A2 PASS
+7634377 ASTHA                            301 090   A1   042 095   A1   043 095   A1   044 095   A1   048 091   A1                     A1 A2 A2 PASS
+7634378 ASTHA SINHA                      301 081   B1   042 085   A2   043 094   A1   044 095   A1   048 092   A1                     A1 A2 A1 PASS
+7634379 AVISHA SINHA                     301 078   B1   042 051   D2   043 068   C1   044 084   B2   048 079   B1                     A2 A2 A2 PASS
+7634380 AYUSHI KESHRI                    301 083   A2   042 076   B1   043 062   C2   044 073   C1   048 072   B2                     A1 A2 A2 PASS
+7634381 DEEPAYANI SRIVASTAVA             301 081   B1   042 076   B1   043 084   A2   044 095   A1   048 093   A1                     A1 A1 A1 PASS
+7634382 DIKSHA                           301 094   A1   042 089   A2   043 095   A1   044 098   A1   048 091   A1                     A1 A1 A1 PASS
+7634383 HARSHITA MICHAEL                 301 086   A2   042 091   A2   043 095   A1   044 095   A1   048 093   A1                     A1 A1 A1 PASS
+7634384 HERA RIZWAN                      301 081   B1   042 094   A1   043 095   A1   044 093   A2   048 091   A1                     A1 A2 A1 PASS
+7634385 HUMA JAFAR                       301 086   A2   042 086   A2   043 083   B1   044 094   A2   048 091   A1   028  AB   E       A1 A2 A1 PASS
+7634386 JAI SHREE                        301 068   C1   042 082   B1   043 083   B1   044 090   B1   048 080   B1                     A2 A2 A2 PASS
+7634387 MANTASHA KHAN                    301 065   C1   042 058   D1   043 055   D1   044 055   D2   048 084   A2                     A1 A2 A2 PASS
+7634388 MAURYA PRIYADARSHI               301 088   A2   042 069   C1   043 088   A2   044 095   A1   048 095   A1                     A2 A2 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2016      REGION : PATNA    DATE : 21-05-2016   PG : 3
+     
+SCHOOL : 08080 NOTRE DAME ACADEMY PO PATLIPUTRA PATNA BIHAR    
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD    INTL-SUB RESULT
+       
+7634389 MEHA RAJ                         301 085   A2   042 095   A1   043 095   A1   044 094   A2   048 095   A1                     A1 A2 A2 PASS
+7634390 NAMRATA SONI                     301 078   B1   042 074   B2   043 092   A2   044 092   B1   048 090   A1                     A1 A2 A2 PASS
+7634391 NEHA MODI                        301 088   A2   042 076   B1   043 094   A1   044 088   B1   048 089   A1   028  AB   E       A1 A1 A2 PASS
+7634392 NIHARIKA KUMARI                  301 088   A2   042 085   A2   043 093   A2   044 095   A1   048 090   A1                     A1 A1 A2 PASS
+7634393 NILOFER SHAMA                    301 078   B1   042 095   A1   043 096   A1   044 095   A1   048 092   A1                     A1 A2 A2 PASS
+7634394 PRATYAKSHA                       301 092   A1   042 082   B1   043 094   A1   044 093   A2   048 091   A1                     A2 A2 A2 PASS
+7634395 PRITHA ROY                       301 090   A1   042 076   B1   043 077   B1   044 088   B1   048 094   A1                     A2 A1 A2 PASS
+7634396 PRIYA KUMARI                     301 080   B1   042 084   A2   043 083   B1   044 094   A2   048 093   A1                     A1 A2 A2 PASS
+7634397 PRIYANSHA                        301 080   B1   042 062   C2   043 066   C1   044 089   B1   048 081   B1                     A2 A2 A2 PASS
+7634398 RADHIKA AGARWAL                  301 092   A1   042 095   A1   043 095   A1   044 096   A1   048 092   A1                     A1 A1 A1 PASS
+7634399 RISHIKA BALWANT                  301 079   B1   042 072   B2   043 075   B2   044 088   B1   048 094   A1   041 037   D1      A1 A1 A1 PASS
+7634400 RITIKA RAJ                       301 090   A1   042 061   C2   043 062   C2   044 086   B1   048 093   A1   028 054   C1      A2 A2 A2 PASS
+7634401 RITIKA RAJ                       301 085   A2   042 062   C2   043 091   A2   044 067   C2   048 092   A1                     A2 A2 A2 PASS
+7634402 RITIKA RANJAN                    301 083   A2   042 090   A2   043 086   A2   044 095   A1   048 094   A1                     A2 A1 A2 PASS
+7634403 RIYA KUMAR                       301 091   A1   042 060   D1   043 086   A2   044 092   B1   048 090   A1                     A2 A2 A2 PASS
+7634404 SADIA YASIN                      301 084   A2   042 068   C1   043 094   A1   044 093   A2   048 090   A1   041 059   B2      A1 A2 A2 PASS
+7634405 SAIBA PERWEEN                    301 073   B2   042 047   D2   043 049   D2   044 030FT E    048 083   A2                     A2 A2 A2 COMP
+7634406 SANA AHMAD                       301 096   A1   042 082   B1   043 094   A1   044 095   A1   048 095   A1   041 076   A2      A1 A1 A2 PASS
+7634407 SHAMBHAVI                        301 087   A2   042 061   C2   043 092   A2   044 094   A2   048 094   A1   028  AB   E       A1 A1 A2 PASS
+7634408 SHIKHA CHOUDHARY                 301 081   B1   042 084   A2   043 081   B1   044 095   A1   048 094   A1                     A1 A1 A2 PASS
+7634409 SHIVANGI BHUSHAN                 301 097   A1   042 094   A1   043 094   A1   044 095   A1   048 094   A1                     A1 A1 A1 PASS
+7634410 SHIVANGI PRIYA                   301 088   A2   042 075   B2   043 094   A1   044 095   A1   048 094   A1                     A1 A2 A2 PASS
+7634411 SHREYA JAISWAL                   301 080   B1   042 081   B1   043 085   A2   044 089   B1   048 091   A1                     A2 A2 A2 PASS
+7634412 SHREYA RANI                      301 097   A1   042 089   A2   043 094   A1   044 096   A1   048 094   A1                     A1 A1 A1 PASS
+7634413 SHUBHANGI                        301 085   A2   042 075   B2   043 094   A1   044 094   A2   048 095   A1                     A2 A2 A2 PASS
+7634414 SHWETA RANI                      301 076   B1   042 067   C1   043 069   C1   044 072   C1   048 088   A2                     A1 A2 A2 PASS
+7634415 SIMRAN RAJ                       301 091   A1   042 086   A2   043 090   A2   044 095   A1   048 094   A1                     A2 A1 A2 PASS
+7634416 SIMRAN SINGH                     301 094   A1   042 069   C1   043 086   A2   044 095   A1   048 087   A2                     A1 A2 A1 PASS
+7634417 SINJINI                          301 074   B2   042 084   A2   043 077   B1   044 073   C1   048 080   B1                     A1 A2 A2 PASS
+7634418 SMAHI SAKSHI                     301 092   A1   042 061   C2   043 067   C1   044 083   B2   048 081   B1                     A2 A2 A2 PASS
+7634419 SNEHA PRAVEEN                    301 088   A2   042 079   B1   043 089   A2   044 094   A2   048 094   A1                     A1 A1 A2 PASS
+7634420 SNEHIL SONI                      301 085   A2   042 084   A2   043 090   A2   044 095   A1   048 077   B1                     A1 A1 A1 PASS
+7634421 SNIGDHA SONY                     301 094   A1   042 063   C2   043 088   A2   044 095   A1   048 068   C1                     A1 A1 A1 PASS
+7634422 SWATI KUMARI                     301 087   A2   042 080   B1   043 094   A1   044 095   A1   048 067   C1                     A1 A2 A1 PASS
+7634423 TANU AGARWAL                     301 084   A2   042 081   B1   043 094   A1   044 095   A1   048 072   B2                     A1 A1 A2 PASS
+7634424 TANVI PRIYA SINGH                301 093   A1   042 067   C1   043 091   A2   044 095   A1   048 073   B2                     A1 A1 A1 PASS
+7634425 TANYA                            301 075   B2   042 071   B2   043 064   C2   044 094   A2   048 062   C2                     A2 A2 A2 PASS
+7634426 TANYA SINGH                      301 082   A2   042 088   A2   043 095   A1   044 095   A1   048 072   B2                     A1 A1 A1 PASS
+7634427 VANSHIKA SINGH                   301 092   A1   042 087   A2   043 095   A1   044 095   A1   048 076   B1                     A2 A1 A2 PASS
+7634428 VARTIKA SHARMA                   301 090   A1   042 067   C1   043 090   A2   044 093   A2   048 091   A1                     A1 A2 A2 PASS
+7634429 VIDYA RASHMI                     301 079   B1   042 083   A2   043 081   B1   044 095   A1   048 093   A1   041 049   C2      A1 A1 A1 PASS
+7634430 ZEBA ANJUM                       301 090   A1   042 068   C1   043 073   B2   044 095   A1   048 095   A1                     A2 A2 A2 PASS
+7634431 AARUSHI LAL                      301 090   A1   030 095   A1   054 091   A2   055 089   A2   065 097   A1   041 057   B2      A1 A2 A1 PASS
+7634432 AASTHA SINGH                     301 079   B1   030 087   A2   041 086   A2   054 095   A1   055 095   A1   065 094   A1      A1 A2 A1 PASS
+7634433 AKANKSHA VERMA                   301 078   B1   030 071   B1   054 078   B1   055 047   D1   065 088   B1   041 033   D2      A1 A2 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2016      REGION : PATNA    DATE : 21-05-2016   PG : 4
+     
+SCHOOL : 08080 NOTRE DAME ACADEMY PO PATLIPUTRA PATNA BIHAR    
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD    INTL-SUB RESULT
+       
+7634434 ANANYA                           301 086   A2   030 082   A2   054 073   B2   055 061   C1   065 093   A2   048 097   A1      A1 A2 A1 PASS
+7634435 ANNIE SINGH                      301 080   B1   030 095   A1   041 069   B1   054 083   B1   055 092   A2   048 089   A1      A1 A2 A1 PASS
+7634436 ANUSHKA                          301 092   A1   030 084   A2   041 059   B2   054 078   B1   055 073   B1   048 089   A1      A1 A2 A2 PASS
+7634437 ANUSHRUTI                        301 069   C1   030 091   A1   041 039   D1   054 073   B2   055 073   B1   065 083   B2      A1 A2 A2 PASS
+7634438 APOORVA MISHRA                   301 087   A2   030 095   A1   041 080   A2   054 092   A2   055 095   A1   065 097   A1      A1 A2 A1 PASS
+7634439 APOORVA SHREE                    301 088   A2   028 086   A1   030 070   B1   054 073   B2   055 061   C1                     A1 A2 A1 PASS
+7634440 ASTHA GOLCHHA                    301 083   A2   030 095   A1   041 078   A2   054 095   A1   055 084   A2   048 083   A2      A1 A1 A1 PASS
+7634441 ASTHA RAJ                        301 081   B1   030 080   A2   054 087   A2   055 068   B2   065 087   B1   041 034   D2      A1 A2 A2 PASS
+7634442 BHABYA JHA                       301 095   A1   030 076   B1   041 071   B1   054 079   B1   055 072   B1   048 090   A1      A2 A2 A2 PASS
+7634443 BHAVYA NANDAN                    301 080   B1   030 090   A1   041 049   C2   054 089   A2   055 063   C1   048 090   A1      A2 A2 A2 PASS
+7634444 BHAVYA SINGH                     301 080   B1   030 095   A1   054 090   A2   055 080   A2   065 090   A2   041 058   B2      A1 A2 A2 PASS
+7634445 DISHA MALHOTRA                   301 091   A1   028 091   A1   030 095   A1   054 086   A2   055 094   A1   048 079   B1      A1 A1 A2 PASS
+7634446 ESHANI SINGH                     301 062   C1   030 082   A2   054 068   C1   055 047   D1   065 077   C1   041 053   C1      A2 A2 A2 PASS
+7634447 FATEMA HUSSAIN                   301 080   B1   030 096   A1   054 086   A2   055 095   A1   065 097   A1   048 088   A2      A1 A2 A1 PASS
+7634448 HRISHIKA VATS                    301 091   A1   030 096   A1   041 066   B1   054 085   A2   055 093   A1   048 082   A2      A1 A2 A1 PASS
+7634449 JAGRITI GUPTA                    301 089   A1   030 095   A1   041 060   B2   054 095   A1   055 075   B1   048 087   A2      A1 A2 A1 PASS
+7634450 KHUSHBOO HORA                    301 081   B1   028 079   A2   030 081   A2   054 077   B1   055 076   B1   048 077   B1      A1 A1 A1 PASS
+7634451 KIRTI PRASAD                     301 096   A1   030 095   A1   054 094   A1   055 091   A2   065 092   A2                     A1 A2 A2 PASS
+7634452 LAVANYA KANORIA                  301 094   A1   030 099   A1   054 095   A1   055 095   A1   065 098   A1   041 091   A1      A1 A2 A1 PASS
+7634453 MANISHA KUMARI                   301 080   B1   030 095   A1   041 061   B2   054 089   A2   055 083   A2   048 080   B1      A1 A1 A2 PASS
+7634454 MANISHA RAJ                      301 097   A1   028 089   A1   030 092   A1   054 095   A1   055 088   A2   041 049   C2      A1 A1 A1 PASS
+7634455 MRINAL PANDEY                    301 082   A2   030 099   A1   054 095   A1   055 065   B2   065 089   B1   041 061   B2      A1 A2 A1 PASS
+7634456 MUSKAN AGRAWAL                   301 077   B1   030 091   A1   041 036   D1   054 091   A2   055 084   A2   048 080   B1      A1 A2 A2 PASS
+7634457 MUSKAN MITTAL                    301 083   A2   030 074   B1   041 041   D1   054 069   B2   055 064   B2   048 065   C1      A2 A2 A2 PASS
+7634458 NAVYA MOHANKA                    301 092   A1   030 096   A1   041 079   A2   054 087   A2   055 071   B1   048 081   B1      A1 A2 A1 PASS
+7634459 NIHARIKA SINGH                   301 077   B1   030 076   B1   041 036   D1   054 071   B2   055 080   A2   048 079   B1      A1 A2 A2 PASS
+7634460 NIKITA SINHA                     301 075   B2   030 067   B1   041 041   D1   054 073   B2   055 061   C1   048 085   A2      A1 A2 A2 PASS
+7634461 NIMISHA BURMAN                   301 083   A2   030 088   A2   041 065   B2   054 083   B1   055 046   D1   048 089   A1      A2 A2 A2 PASS
+7634462 NISHI KUMARI                     301 072   B2   030 079   A2   041 055   C1   054 075   B2   055 081   A2   048 078   B1      A1 A2 A2 PASS
+7634463 PAYAL AGARWAL                    301 073   B2   028 081   A1   030 087   A2   054 073   B2   055 076   B1   048 066   C1      A2 A2 A2 PASS
+7634464 PRAGYA PRATEEK                   301 086   A2   030 071   B1   054 076   B1   055 060   C1   065 092   A2   048 071   B2      A2 A1 A2 PASS
+7634465 PRAKRITI MEHROTRA                301 077   B1   030 089   A2   054 082   B1   055 095   A1   065 091   A2   041 056   C1      A2 A2 A1 PASS
+7634466 PRERNA KUMARI                    301 096   A1   030 095   A1   041 095   A1   054 095   A1   055 098   A1   048 085   A2      A1 A2 A1 PASS
+7634467 PRERNA PRIYA                     301 097   A1   030 095   A1   054 087   A2   055 061   C1   065 095   A1   041 049   C2      A1 A2 A2 PASS
+7634468 PRIYANSHA SINHA                  301 082   A2   030 090   A1   041 055   C1   054 072   B2   055 074   B1                     A2 A2 A2 PASS
+7634469 RAKHI KUMARI                     301 055   C2   030 053   C1   054 058   C2   055 061   C1   065 082   B2   048 079   B1      A2 A1 A2 PASS
+7634470 RATNPRIYA                        301 075   B2   028 075   A2   030 058   C1   054 061   C2   055 044   D2   048 076   B1      A2 A2 A2 PASS
+7634471 RIA BAJAJ                        301 076   B1   030 078   A2   048 070   B2   054 059   C2   055 069   B2   028  AB   E       A1 A2 A1 PASS
+7634472 RICHA BOTHRA                     301 092   A1   030 062   B2   041 033   D2   054 061   C2   055 069   B2   048 063   C2      A1 A2 A1 PASS
+7634473 RICHA KUMARI                     301 090   A1   030 094   A1   041 055   C1   054 092   A2   055 086   A2   048 081   B1      A1 A1 A2 PASS
+7634474 RISHIKA AGRAWAL                  301 079   B1   030 095   A1   041 068   B1   054 092   A2   055 095   A1   048 091   A1      A1 A1 A1 PASS
+7634475 RITIKA AGARWAL                   301 093   A1   030 081   A2   054 073   B2   055 095   A1   065 091   A2   041 034   D2      A1 A1 A1 PASS
+7634476 RITIKA SINGH                     301 086   A2   030 083   A2   041 033   D2   054 079   B1   055 051   C2   048 092   A1      A1 A2 A1 PASS
+7634477 RITU SINHA                       301 078   B1   030 088   A2   041 053   C1   054 075   B2   055 090   A2   048 082   A2      A1 A2 A2 PASS
+7634478 SABA RAZA                        301 095   A1   030 095   A1   041 088   A2   054 095   A1   055 095   A1                     A1 A2 A1 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2016      REGION : PATNA    DATE : 21-05-2016   PG : 5
+     
+SCHOOL : 08080 NOTRE DAME ACADEMY PO PATLIPUTRA PATNA BIHAR    
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD    INTL-SUB RESULT
+       
+7634479 SADAF NAUSHEEN                   301 093   A1   028 095   A1   030 095   A1   054 095   A1   055 089   A2                     A1 A1 A1 PASS
+7634480 SAHITI SIDDHARTH                 301 081   B1   030 066   B2   054 078   B1   055 061   C1   065 086   B1                     A1 A2 A1 PASS
+7634481 SAIMA RANA                       301 093   A1   028 091   A1   030 088   A2   054 086   A2   055 074   B1   048 086   A2      A1 A1 A2 PASS
+7634482 SAKSHI AGARWAL                   301 091   A1   030 085   A2   041 054   C1   054 080   B1   055 076   B1   048 077   B1      A1 A2 A2 PASS
+7634483 SAKSHI MEHROTRA                  301 076   B1   041 033   D2   048 057   D1   054 058   C2   055 061   C1   030 019F  E       A1 A2 A1 PASS
+7634484 SAKSHI RAJ                       301 095   A1   030 077   B1   041 051   C1   054 081   B1   055 085   A2   048 083   A2      A2 A2 A2 PASS
+7634485 SAKSHI SINGH                     301 081   B1   030 094   A1   041 051   C1   054 075   B2   055 044   D2   048 082   A2      A2 A2 A2 PASS
+7634486 SAMIKSHA                         301 085   A2   030 065   B2   041 049   C2   054 086   A2   055 092   A2   048 083   A2      A2 A2 A2 PASS
+7634487 SHAMBHAVI JHA                    301 088   A2   028 066   B1   030 055   C1   054 058   C2   055 071   B1   041 005F  E       A1 A2 A2 PASS
+7634488 SHARQUA SHAHEEN                  301 087   A2   030 095   A1   041 049   C2   054 078   B1   055 063   C1   048 074   B2      A2 A2 A2 PASS
+7634489 SHIVADHATRI                      301 077   B1   030 092   A1   041 036   D1   054 076   B1   055 072   B1   048 081   B1      A1 A2 A1 PASS
+7634490 SHIVANI                          301 093   A1   028 083   A1   030 066   B2   054 059   C2   055 065   B2   048 078   B1      A1 A1 A1 PASS
+7634491 SHIVANI PAHUJA                   301 094   A1   030 092   A1   054 087   A2   055 069   B2   065 097   A1   048 077   B1      A1 A2 A2 PASS
+7634492 SHIVANI SINHA                    301 082   A2   028 078   A2   030 069   B1   054 063   C1   055 062   C1                     A1 A2 A2 PASS
+7634493 SHREYA CHOUBEY                   301 088   A2   030 067   B1   048 061   C2   054 062   C2   055 063   C1   041 005F  E       A2 A2 A2 PASS
+7634494 SHRISTY SONAL                    301 077   B1   030 067   B1   054 082   B1   055 066   B2   065 075   C2   048 064   C1      A2 A2 A2 PASS
+7634495 SIMRAN PRAKASH                   301 075   B2   028 074   A2   030 082   A2   054 083   B1   055 072   B1   048 075   B2      A2 A2 A2 PASS
+7634496 SNIGDHA SAKSHI                   301 091   A1   030 071   B1   054 065   C1   055 065   B2   065 092   A2   041 055   C1      A1 A1 A1 PASS
+7634497 SONAM SANDHYA                    301 090   A1   028 080   A2   030 080   A2   054 069   B2   055 050   D1   048 070   B2      A2 A2 A2 PASS
+7634498 SUNITA KUMARI                    301 081   B1   030 041   D1   054 058   C2   055 051   C2   065 094   A1   048 070   B2      A2 A1 A2 PASS
+7634499 SWEKSHA PRIYA                    301 082   A2   028 076   A2   030 072   B1   054 072   B2   055 079   B1   048 080   B1      A1 A2 A2 PASS
+7634500 TANYA                            301 080   B1   028 081   A1   030 071   B1   054 073   B2   055 045   D2   041 008F  E       A1 A1 A1 PASS
+7634501 VARDA PRASAD                     301 087   A2   030 094   A1   054 073   B2   055 079   B1   065 088   B1   041 037   D1      A1 A2 A2 PASS
+7634502 VITHIKA KUNDRA                   301 089   A1   030 095   A1   054 077   B1   055 076   B1   065 092   A2   041  AB   E       A1 A1 A1 PASS
+7634503 AARUSHI                          301 080   B1   027 099   A1   028 096   A1   030 083   A2   039 095   A1   048 067   C1      A1 A2 A1 PASS
+7634504 ABHA RANI                        301 082   A2   027 096   A1   028 093   A1   030 095   A1   041 053   C1   048 069   C1      A1 A1 A2 PASS
+7634505 ADITI                            301 085   A2   027 095   A1   028 093   A1   030 095   A1   039 093   A1                     A1 A2 A2 PASS
+7634506 ADITI                            301 077   B1   027 100   A1   028 095   A1   030 097   A1   039 084   A2                     A1 A2 A2 PASS
+7634507 ADITI SINGH                      301 085   A2   027 097   A1   028 095   A1   030 095   A1   039 083   A2                     A1 A2 A1 PASS
+7634508 ALAFIYA                          301 084   A2   027 095   A1   028 091   A1   030 086   A2   039 093   A1   048 084   A2      A1 A2 A2 PASS
+7634509 ALANKRITA SHRI                   301 057   C2   027 076   A2   028 072   A2   039 087   A2   065 073   C2   048 049   D2      A1 A2 A2 PASS
+7634510 ALISHA LAKRA                     301 060   C2   027 074   A2   028 072   A2   030 048   C2   039 084   A2                     A1 A2 A2 PASS
+7634511 ALIVYA SAHAY                     301 092   A1   027 079   A2   028 081   A1   039 095   A1   065 091   A2                     A1 A1 A1 PASS
+7634512 ALVEENA KHAN                     301 063   C1   027 095   A1   028 073   A2   039 093   A1   065 065   D1   048 054   D1      A1 A2 A2 PASS
+7634513 ANANTA SHREE                     301 076   B1   027 069   B1   028 080   A2   039 088   A1   065 076   C1   048 051   D2      A1 A1 A2 PASS
+7634514 ANANYA                           301 088   A2   027 095   A1   028 092   A1   030 094   A1   039 095   A1                     A1 A2 A2 PASS
+7634515 ANANYA BHARDWAJ                  301 097   A1   027 099   A1   028 095   A1   030 095   A1   039 095   A1                     A1 A2 A1 PASS
+7634516 ANJALI SINGH                     301 091   A1   027 085   A1   028 090   A1   039 092   A1   065 077   C1   048 055   D1      A1 A2 A2 PASS
+7634517 ANNU PRIYA                       301 094   A1   027 093   A1   028 085   A1   039 095   A1   065 080   C1                     A1 A2 A2 PASS
+7634518 ANWESHA SINGH                    301 086   A2   027 099   A1   028 095   A1   030 099   A1   039 095   A1                     A1 A1 A1 PASS
+7634519 APARAJITA                        301 096   A1   027 093   A1   028 094   A1   030 092   A1   039 095   A1                     A1 A2 A2 PASS
+7634520 APRAJITA KHANNA                  301 094   A1   027 095   A1   028 088   A1   030 095   A1   039 095   A1                     A1 A2 A1 PASS
+7634521 ARCHIE PRAKASH                   301 075   B2   027 073   B1   028 080   A2   030 061   B2   039 094   A1                     A1 A2 A2 PASS
+7634522 ASMITA RAI                       301 090   A1   027 018FT E    028 051   C1   030 023F  E    041 012F  E                      A2 A2 A2 FAIL
+7634523 AVNI KRITIKA                     301 092   A1   027 079   A2   028 082   A1   039 093   A1   065 082   B2                     A2 A2 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2016      REGION : PATNA    DATE : 21-05-2016   PG : 6
+     
+SCHOOL : 08080 NOTRE DAME ACADEMY PO PATLIPUTRA PATNA BIHAR    
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD    INTL-SUB RESULT
+       
+7634524 AYUSHI JAISWAL                   301 069   C1   027 090   A1   028 071   A2   039 090   A1   065 074   C2                     A1 A2 A2 PASS
+7634525 AYUSHI SONAM                     301 080   B1   027 059   C1   028 061   B1   030 051   C1   039 084   A2                     A1 A2 A2 PASS
+7634526 BHAVYA GAUTAM                    301 094   A1   027 097   A1   028 095   A1   039 095   A1   065 093   A2                     A1 A2 A1 PASS
+7634527 DEEKSHA SINHA                    301 066   C1   027 089   A1   028 074   A2   039 095   A1   065 068   D1                     A1 A2 A2 PASS
+7634528 DEEKSHIKA SINGH                  301 088   A2   027 072   B1   028 081   A1   030 086   A2   039 090   A1                     A1 A2 A2 PASS
+7634529 DIPALI                           301 092   A1   027 095   A1   028 095   A1   030 095   A1   039 095   A1                     A1 A2 A2 PASS
+7634530 FABIOLA OSTA                     301 078   B1   027 078   A2   028 063   B1   030 053   C1   039 059   C1   065 077   C1      A1 A2 A2 PASS
+7634531 GEETIKA SAGAR                    301 075   B2   027 062   B2   028 071   A2   030 049   C2   039 060   C1                     A1 A2 A2 PASS
+7634532 KATYAYANI SINGH                  301 090   A1   027 096   A1   028 095   A1   030 085   A2   039 095   A1   048 052   D2      A1 A2 A2 PASS
+7634533 LAKHIMA SHANKAR KHAN             301 079   B1   027 091   A1   028 077   A2   030 066   B2   039 079   A2                     A1 A2 A2 PASS
+7634534 LAWANYA SINGH                    301 092   A1   027 097   A1   028 091   A1   039 095   A1   065 091   A2   048 074   B2      A1 A1 A2 PASS
+7634535 LIZA PALLAVI                     301 094   A1   027 091   A1   028 093   A1   039 080   A2   065 071   C2   048 050   D2      A1 A2 A2 PASS
+7634536 MADIHA ZARA                      301 084   A2   027 094   A1   028 083   A1   030 073   B1   039 092   A1   048 054   D1      A2 A2 A2 PASS
+7634537 NANCY BHAVINI                    301 086   A2   027 064   B2   028 080   A2   030 047   C2   039 094   A1                     A1 A2 A2 PASS
+7634538 NATASHA SARAH COWELL             301 087   A2   027 080   A2   028 065   B1   039 087   A2   065 056   D2                     A2 A2 A2 PASS
+7634539 NAVJOT KAUR                      301 082   A2   027 065   B2   028 053   C1   030 061   B2   039 094   A1                     A1 A2 A2 PASS
+7634540 NIDHI PRATAP SINGH               301 091   A1   027 095   A1   028 093   A1   030 095   A1   039 096   A1                     A1 A1 A1 PASS
+7634541 NILISHA KASHWI                   301 075   B2   027 077   A2   028 068   B1   039 082   A2   065 062   D1                     A1 A2 A2 PASS
+7634542 PRERNA VERMA                     301 086   A2   027 095   A1   028 091   A1   030 095   A1   039 089   A1                     A1 A2 A2 PASS
+7634543 RADHIKA PRADHAN                  301 090   A1   027 095   A1   028 073   A2   030 087   A2   039 092   A1   041  AB   E       A1 A2 A2 PASS
+7634544 RICHA SRIVASTAVA                 301 085   A2   027 093   A1   028 095   A1   030 084   A2   039 080   A2   048 061   C2      A1 A1 A2 PASS
+7634545 SAKSHI SINGH                     301 087   A2   027 095   A1   028 095   A1   039 094   A1   065 086   B1                     A1 A2 A2 PASS
+7634546 SALONI CHACHAN                   301 090   A1   027 095   A1   028 095   A1   030 069   B1   039 091   A1   048 055   D1      A1 A2 A2 PASS
+7634547 SANSKRITI                        301 089   A1   027 095   A1   028 091   A1   039 094   A1   065 079   C1   048 071   B2      A1 A1 A1 PASS
+7634548 SAUMYA SINGH                     301 074   B2   027 093   A1   028 085   A1   030 042   D1   039 090   A1                     A1 A2 A2 PASS
+7634549 SHAHIN ANWAR                     301 069   C1   027 090   A1   028 095   A1   039 090   A1   065 080   C1                     A1 A1 A2 PASS
+7634550 SHAILANI SINHA                   301 089   A1   027 093   A1   028 090   A1   030 086   A2   039 090   A1                     A1 A2 A2 PASS
+7634551 SHAILVI SHEPHALI                 301 078   B1   027 061   B2   028 045   C2   039 093   A1   065 070   C2                     A1 A2 A2 PASS
+7634552 SHALINI                          301 093   A1   027 095   A1   028 095   A1   030 070   B1   039 092   A1                     A1 A2 A2 PASS
+7634553 SHALINI                          301 080   B1   027 084   A1   028 081   A1   030 033   D2   039 084   A2                     A2 A2 A2 PASS
+7634554 SHAMBHAVI                        301 086   A2   027 088   A1   028 082   A1   039 094   A1   065 059   D2                     A2 A2 A2 PASS
+7634555 SHAMBHAVI                        301 085   A2   027 095   A1   028 096   A1   030 088   A2   039 094   A1   065 057   D2      A1 A2 A2 PASS
+7634556 SHAMBHAVI FRANCIS                301 096   A1   027 094   A1   028 091   A1   039 095   A1   065 063   D1                     A1 A2 A1 PASS
+7634557 SHIKSHA PANDEY                   301 053   D1   027 093   A1   028 094   A1   030 078   A2   039 076   A2   048 077   B1      A1 A2 A2 PASS
+7634558 SHRINKHALA RANI                  301 068   C1   027 088   A1   028 095   A1   030 079   A2   039 090   A1                     A1 A2 A2 PASS
+7634559 SHRISHTI                         301 094   A1   027 095   A1   028 095   A1   030 088   A2   039 094   A1                     A1 A2 A1 PASS
+7634560 SHUBHANGI SHREYA                 301 053   D1   027 091   A1   028 078   A2   030 056   C1   039 080   A2                     A1 A2 A2 PASS
+7634561 SHUBHI                           301 090   A1   027 095   A1   028 095   A1   030 093   A1   039 095   A1                     A1 A2 A1 PASS
+7634562 SIMRAN LATH                      301 075   B2   027 069   B1   028 059   B2   030 033   D2   039 089   A1                     A1 A2 A2 PASS
+7634563 SMRITI SINHA                     301 096   A1   027 099   A1   028 098   A1   039 095   A1   065 095   A1                     A1 A2 A1 PASS
+7634564 SNEHA                            301 092   A1   027 084   A1   028 095   A1   039 095   A1   065 070   C2                     A1 A2 A2 PASS
+7634565 SNEHA BIMAL                      301 094   A1   027 093   A1   028 086   A1   030 081   A2   039 094   A1                     A1 A2 A2 PASS
+7634566 SNIGDHA SOMYA                    301 092   A1   027 093   A1   028 095   A1   039 092   A1   065 086   B1                     A2 A2 A2 PASS
+7634567 SOUMYA SUNIDHI                   301 090   A1   027 089   A1   028 095   A1   030 040   D1   039 094   A1                     A1 A2 A2 PASS
+7634568 SURANJANA                        301 085   A2   027 085   A1   028 081   A1   030 058   C1   039 092   A1   048 081   B1      A1 A1 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2016      REGION : PATNA    DATE : 21-05-2016   PG : 7
+     
+SCHOOL : 08080 NOTRE DAME ACADEMY PO PATLIPUTRA PATNA BIHAR    
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD    INTL-SUB RESULT
+       
+7634569 SWARANIMA VATSA                  301 076   B1   027 062   B2   028 051   C1   030 047   C2   039 092   A1                     A1 A2 A2 PASS
+7634570 SWETA PRIYA                      301 086   A2   027 095   A1   028 095   A1   030 065   B2   039 091   A1                     A1 A2 A2 PASS
+7634571 TANNISHTHA MAZUMDAR              301 096   A1   027 099   A1   028 095   A1   030 084   A2   039 095   A1                     A1 A2 A1 PASS
+7634572 TANYA SINGH                      301 084   A2   027 095   A1   028 095   A1   030 072   B1   039 087   A2                     A1 A1 A1 PASS
+7634573 VISHAKHA VIKRAM JHA              301 088   A2   027 095   A1   028 095   A1   030 086   A2   039 092   A1                     A1 A2 A1 PASS
+7634574 HUMA SIDDIQUA                    301 081   B1   042 072   B2   043 089   A2   044 095   A1   048 084   A2   030  AB   E       A1 A2 A2 PASS
+7634575 SHREYA SHUBHANSHI                301 095   A1   041 064   B2   042 094   A1   043 076   B2   065 092   A2   048 094   A1      A1 A1 A1 PASS
+      
+Disclaimer : Neither NIC nor CBSE is responsible for any inadvertent error that may have crept in the results
+being sent through E-mail. The results sent through E-mail are for  immediate information to the examinees. These cannot
+be treated as original mark sheets. Original mark sheets have been issued by the Board separately.
